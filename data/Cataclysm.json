@@ -4,17 +4,11 @@
     "name": "Cataclysm",
     "author": "GgB0y",
     "creators": ["GgB0y"],
-    "verifier": "Riot",
-    "verification": "https://www.youtube.com/watch?v=dYt5fp5VGVs",
+    "verifier": "WiseTree2939",
+    "verification": "https://www.youtube.com/watch?v=Siiw6cgND7s",
     "percentToQualify": "100",
     "password": "666777",
     "records": [
-        {
-            "user": "WiseTree2939",
-            "link": "https://www.youtube.com/watch?v=Siiw6cgND7s",
-            "percent": 100,
-            "hz": "240"
-        },
         {
             "user": "BluExtaByte",
             "link": "idk man",
