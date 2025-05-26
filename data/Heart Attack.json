@@ -4,16 +4,10 @@
     "name": "Heart Attack",
     "author": "Derpskull",
     "creators": ["Yusuksto", "XLGamer10", "Nightlight", "Derpskull", "Qorbo", "Ryu", "Moone", "Turbo868"],
-    "verifier": "LordVadercraft",
-    "verification": "https://www.youtube.com/watch?v=Uq5f6qM6e0k",
+    "verifier": "Bennettgs",
+    "verification": "https://www.youtube.com/watch?v=iwszbThoVeM",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Bennettgs",
-            "link": "https://www.youtube.com/watch?v=iwszbThoVeM",
-            "percent": 100,
-            "hz": "240"
-        }
     ]
 }
