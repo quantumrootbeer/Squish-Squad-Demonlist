@@ -1,1 +1,18 @@
-
+{
+    "id": 114933189,
+    "name": "Through the Decay",
+    "author": "sparktwo",
+    "creators": ["sparktwo"],
+    "verifier": "sparktwo",
+    "verification": "https://www.youtube.com/watch?v=djPTTc2vTd4",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "SplitAlloy97",
+            "link": "https://www.youtube.com/watch?v=azPxN-JgXwE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
