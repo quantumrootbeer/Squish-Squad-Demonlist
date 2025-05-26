@@ -3,17 +3,11 @@
     "name": "Bloodbath",
     "author": "Riot",
     "creators": ["weoweoteo","Vermillion","Michigun","Evasium","Crack","Asonicmen","Etzer","Havok","Giron","GgBoy","Riot"],
-    "verifier": "Riot",
-    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+    "verifier": "quantumrootbeer",
+    "verification": "https://www.youtube.com/watch?v=74HCu1oYzxQ",
     "percentToQualify": "100",
     "password": "No copy",
     "records": [
-        {
-            "user": "quantumrootbeer",
-            "link": "https://www.youtube.com/watch?v=74HCu1oYzxQ",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "SplitAlloy97",
             "link": "https://www.youtube.com/watch?v=_AosOneWRP0",
