@@ -3,16 +3,10 @@
     "name": "Delta Interface",
     "author": "Platnuu",
     "creators": ["Platnuu"],
-    "verifier": "Skyzl",
-    "verification": "https://www.youtube.com/watch?v=BnrTI1BVqc4",
+    "verifier": "Bennettgs",
+    "verification": "https://www.youtube.com/watch?v=cT4K_lxoKTs",
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
-        {
-            "user": "Bennettgs",
-            "link": "https://www.youtube.com/watch?v=cT4K_lxoKTs",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
