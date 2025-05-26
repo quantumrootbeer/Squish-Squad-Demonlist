@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "No copy",
     "records": [
+        {
+            "user": "quantumrootbeer",
+            "link": "https://www.youtube.com/watch?v=74HCu1oYzxQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
