@@ -10,6 +10,12 @@
     "password": "666777",
     "records": [
         {
+            "user": "BluExtaByte",
+            "link": "https://www.youtube.com/watch?v=VTnHqr9PsXs",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
             "user": "quantumrootbeer",
             "link": "https://www.youtube.com/watch?v=B4WTScl6WRw",
             "percent": 100,
