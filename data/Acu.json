@@ -9,11 +9,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-    ]
-    {
+        {
             "user": "Haak80",
             "link": "https://www.youtube.com/watch?v=v7qdHFl13fE",
             "percent": 100,
             "hz": "240"
         }
+    ]
 }
