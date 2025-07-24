@@ -9,11 +9,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-    ]
-    {
+        {
             "user": "SplitAlloy97",
             "link": "https://www.youtube.com/watch?v=moEkAGIVXKQ",
             "percent": 100,
             "hz": "360"
         }
+    ]
 }
