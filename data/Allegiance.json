@@ -4,16 +4,9 @@
     "name": "Allegiance",
     "author": "nikroplayz",
     "creators": ["nikroplayz"],
-    "verifier": "Blutonium",
-    "verification": "https://youtu.be/ZY5G7DeDVYc",
+    "verifier": "SplitAlloy97",
+    "verification": "https://youtu.be/CjxIXHLcqsk?si=-iEKEpnOr17DfA42",
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
-        {
-            "user": "SplitAlloy97",
-            "link": "https://youtu.be/CjxIXHLcqsk?si=-iEKEpnOr17DfA42",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
-}
+        {}
