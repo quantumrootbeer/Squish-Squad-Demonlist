@@ -8,5 +8,12 @@
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": []
+    "records": [
+        {
+            "user": "SplitAlloy97",
+            "link": "https://www.youtube.com/watch?v=CjxIXHLcqsk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
