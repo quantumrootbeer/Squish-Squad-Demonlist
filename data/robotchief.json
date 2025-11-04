@@ -7,11 +7,18 @@
     "verification": "https://youtu.be/8rJmV7i8eRM",
     "percentToQualify": "100",
     "password": ".-=p][ol9in-9poo",
-    "records": [        {
+    "records": [
+        {
             "user": "Haak80",
             "link": "https://youtu.be/FOJd7htz8CA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Liquidman6776",
+            "link": "https://youtu.be/GM1fjxlPqRI?si=w9JY6l6w7CWolXpm",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
