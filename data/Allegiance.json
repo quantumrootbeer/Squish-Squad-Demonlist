@@ -31,7 +31,12 @@
             "user": "Haak80",
             "link": "https://youtu.be/Rmr5FA014wk",
             "percent": 100,
+            "hz": 240 https://youtu.be/pPsNwL7vy0c
+        },
+        {
+            "user": "quantumrootbeer",
+            "link": "https://youtu.be/pPsNwL7vy0c",
+            "percent": 100,
             "hz": 240
-        }
     ]
 }
