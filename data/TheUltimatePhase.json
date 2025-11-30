@@ -8,5 +8,12 @@
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": []
+    "records": [
+        {
+            "user": "Liquidman6776",
+            "link": "https://youtu.be/VwPP-UtoCIE?si=3w58BCLUo_q82lnX",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
