@@ -1,6 +1,5 @@
 {
-    "id": 26681070
-,
+    "id": 26681070,
     "name": "Sonic Wave",
     "author": "Sunix",
     "creators": ["Cyclic", "Sunix"],
@@ -9,5 +8,11 @@
     "percentToQualify": "100",
     "password": "112516", 
     "records": [
+        {
+            "user": "GamerAJG2012",
+            "link": "https://youtu.be/bOkmVpHsk_Y",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
