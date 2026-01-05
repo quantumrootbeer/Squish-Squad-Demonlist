@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/7IlvCcP5w58",
     "percentToQualify": "100",
     "password": "game",
-    "records": []
+    "records": [
+        {
+            "user": "Liquidman6776",
+            "link": "https://youtu.be/Gk3kx-R_zFI?si=Ig1dk1YQESnGdfDr",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
