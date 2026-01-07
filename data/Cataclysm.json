@@ -10,6 +10,12 @@
     "password": "666777",
     "records": [
         {
+            "user": "CheriOS101",
+            "link": "https://drive.google.com/file/d/146tbGNA2NQWJ8O2NHHfBahc1B-K3zsdJ/view",
+            "percent": 100,
+            "hz": "1"
+        },
+        {
             "user": "Manipulator",
             "link": "https://www.youtube.com/watch?v=VTnHqr9PsXs",
             "percent": 100,
