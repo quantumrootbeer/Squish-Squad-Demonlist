@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=qeRHl_zsCmk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "quantumrootbeer",
+            "link": "https://www.youtube.com/watch?v=ssVMo0zVg-0",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
