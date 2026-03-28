@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "po",
     "records": [
+        {
+            "user": "Liquidman6776",
+            "link": "https://youtu.be/oWYK4GwyI7E?si=9Nvpo3e0CmwtrZHx",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
