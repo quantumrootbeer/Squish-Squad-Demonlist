@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "po",
     "records": [
+        {
+            "user": "SleepyyLynn",
+            "link": "https://youtu.be/YskwckYkkzc?si=h0jw7xt3iPyR8ZKi",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
