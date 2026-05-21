@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/SnMSRjW5Acg",
     "percentToQualify": "100",
     "password": "goon",
-    "records": []
+    "records": [
+        {
+            "user": "wisetree2939",
+            "link": "https://youtu.be/r6qmAfXj0OY?si=9Q8jjiRPQ3yOGEzS",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
