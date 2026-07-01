@@ -9,6 +9,12 @@
     "password": "po",
     "records": [
         {
+            "user": "Lemo",
+            "link": "https://www.youtube.com/watch?v=QOn5X9zHrqM",
+            "percent": 100,
+            "hz": "idk"
+        },
+        {
             "user": "SleepyyLynn",
             "link": "https://youtu.be/YskwckYkkzc?si=h0jw7xt3iPyR8ZKi",
             "percent": 100,
