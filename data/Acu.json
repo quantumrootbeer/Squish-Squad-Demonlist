@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=70yYOODyA3o",
             "percent": 100,
             "hz": "144"
+        },
+        {
+            "user": "Ribbit",
+            "link": "https://youtu.be/aGHGYClmtJw?si=GyhubJWVIKOfLrxv",
+            "percent": 100,
+            "hz": "60",
         }
     ]
 }
