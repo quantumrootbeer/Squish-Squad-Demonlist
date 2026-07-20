@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+            "user": "quantumrootbeer",
+            "link": "https://medal.tv/games/geometry-dash/clips/n9FQBc7iRKLgwMUXd?invite=cr-MSwxY1gsNTIzMjA0MTcz",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
