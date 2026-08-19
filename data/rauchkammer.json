@@ -1,0 +1,19 @@
+{
+    "id": 146399247,
+    "name": "rauchkammer",
+    "author": "Devilmine",
+    "creators": ["Devilmine"],
+    "verifier": "GamerAJG2012",
+    "verification": "https://youtu.be/Snce_2fqsWc",
+    "percentToQualify":
+ "100",
+    "password": "Open",
+    "records": [
+         {
+            "user": "Haak80",
+            "link": "https://youtu.be/l9dG0J6uzds",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
