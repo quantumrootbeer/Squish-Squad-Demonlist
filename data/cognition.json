@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+        "user": "Liquidman6776",
+        "link": "https://www.youtube.com/watch?v=Nmx3_qOg8rs&t=43s",
+        "percent": 100,
+        "hz": 480
+        }
     ]
 }
