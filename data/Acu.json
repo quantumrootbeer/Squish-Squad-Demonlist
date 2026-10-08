@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=n7ZFRLOF4Pk",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Lemo",
+            "link": "https://youtu.be/eIIjBMe967o?si=bIa1PzRvzWnHDoFX",
+            "percent": 100,
+            "hz": "60"
         }
     ]
 }
